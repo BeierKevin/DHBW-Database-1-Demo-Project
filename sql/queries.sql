@@ -21,14 +21,13 @@ FROM
 WHERE
   team.game_id = 1;
 
--- TODO: not working
 -- Retrieve the number of games played by each team:
 SELECT
   team.id,
   COUNT(game.id) AS game_count
 FROM
   team
-  LEFT JOIN game ON team.id = game.team_id
+  LEFT JOIN game ON team.game_id = game.id
 GROUP BY
   team.id;
 
