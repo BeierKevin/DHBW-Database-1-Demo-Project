@@ -4,7 +4,7 @@ Welcome to the README file of our small database project developed during the 4t
 
 ## Project Description
 
-Our project focuses on developing a small database system using PostgreSQL. The purpose of this project is to demonstrate our understanding of fundamental database concepts and their practical implementation. Throughout the development process, we have applied various principles and techniques to ensure the efficiency and reliability of our database.Our sample database represents the game  Overwatch.
+Our project focuses on developing a small database system using PostgreSQL. The purpose of this project is to demonstrate our understanding of fundamental database concepts and their practical implementation. Throughout the development process, we have applied various principles and techniques to ensure the efficiency and reliability of our database.Our sample database represents the game Overwatch.
 
 ## Features
 
@@ -26,3 +26,7 @@ To get started with our project, please follow the instructions below:
 ## Conclusion
 
 We are proud to present our small database project developed during our 4th semester at DHBW. This project has allowed us to apply the principles of database management and gain practical experience with PostgreSQL. We hope you find our project informative and useful. If you have any questions or suggestions, please feel free to reach out to us.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
